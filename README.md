@@ -8,7 +8,7 @@
 
 Sistema desktop de **controle financeiro pessoal multiusuário**, desenvolvido em **Delphi**, voltado para organização de receitas, despesas, investimentos, orçamento e análise financeira por meio de relatórios e gráficos.
 
-Este projeto foi construído como uma solução prática para uso real no dia a dia, permitindo controle detalhado das finanças pessoais, categorização de gastos, importação de extratos bancários e acompanhamento de orçamento previsto versus realizado.
+Este projeto foi construído ao longo do tempo de forma incremental como uma solução prática para uso real no dia a dia, permitindo controle detalhado das finanças pessoais, categorização de gastos, importação de extratos bancários e acompanhamento de orçamento previsto versus realizado.
 
 ---
 
@@ -21,13 +21,13 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 - Controle de orçamento e compromissos financeiros
 - Analise por meio de gráficos
 - Persistência de dados em banco **Firebird**
-- Relatórios analiticos e sintéticos gerados por fitros por período
+- Relatórios analiticos e sintéticos gerados por filtros por período
 
 ---
 
 ## 🖥️ Tecnologias Utilizadas
 
-- **Delphi (VCL Desktop)**
+- **Delphi 7 (VCL Desktop)**
 - **Banco de Dados Firebird**
 - Componente para construção de relatórios **Fortes Report**
 - Demais telas com componentes **nativos do Delphi**
@@ -203,7 +203,7 @@ controle-financeiro-delphi
 <img src="./Screenshots/20-rel-orcto-analitico.png" width="800" />
 <br>
 
-- Relatório sintético de orçanmento do período filtrado
+- Relatório sintético de orçamento do período filtrado
 
 <img src="./Screenshots/19-rel-orcto-sintetico.png" width="800" />
 <br>
