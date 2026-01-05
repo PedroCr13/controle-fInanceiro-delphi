@@ -13,10 +13,10 @@ object dm_Conexao: Tdm_Conexao
     LoginPrompt = False
     Params.Strings = (
       'DriverName=Interbase'
-      'Database=localhost:D:\EXTRATO\EXTRATO.FDB'
+      'Database=localhost:CAMINHO_DO_BANCO'
       'RoleName=RoleName'
-      'User_Name=SYSDBA'
-      'Password=masterkey'
+      'User_Name=USUARIO_BANCO'
+      'Password=SENHA'
       'ServerCharSet='
       'SQLDialect=3'
       'BlobSize=-1'
