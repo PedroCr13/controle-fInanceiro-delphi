@@ -95,7 +95,7 @@ controle-financeiro-delphi
 - Isolamento completo de dados por usuário
 
 <img src="./Screenshots/1-cadastro-usuario.png" width="400" />
-<br><br>
+<br>
 ---
 
 ### 💼 Movimentação Financeira
@@ -109,7 +109,7 @@ controle-financeiro-delphi
   - Descrição
 
 <img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="400" />
-<br><br>
+<br>
 ---
 
 ### 🗂️ Categorias
@@ -130,7 +130,7 @@ controle-financeiro-delphi
 - Consolidação por categoria e subcategoria
 
 <img src="./Screenshots/18-efetiva-compromisso.png" width="400" />
-<br><br>
+<br>
 ---
 
 ### 📈 Consultas e Dashboards
@@ -143,10 +143,10 @@ controle-financeiro-delphi
 - Histórico e relatórios de investimentos
 
 <img src="./Screenshots/23-cons-desp-grafico.png" width="400" />
-<br><br>
+<br>
 
 <img src="./Screenshots/24-cons-desp-periodo.png" width="400" />
-<br><br>
+<br>
 ---
 
 ### 🧾 Relatórios (Fortes Report)
@@ -158,13 +158,13 @@ controle-financeiro-delphi
 - Exportação em **PDF**
 
 <img src="./Screenshots/22-rel-extrato.png" width="400" />
-<br><br>
+<br>
 
 <img src="./Screenshots/25-rel-desp-periodo.png" width="400" />
-<br><br>
+<br>
 
 <img src="./Screenshots/20-rel-orcto-analitico.png" width="400" />
-<br><br>
+<br>
 ---
 Esses prints foram incluídos para ilustrar o funcionamento do sistema sem expor dados reais.
 
