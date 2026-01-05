@@ -77,7 +77,7 @@ Essa abordagem foi adotada para:
 - garantir consistência dos dados
 - refletir práticas comuns em sistemas corporativos desktop
 
-<img src="./Screenshots/bd.png" width="700" />
+<img src="./Screenshots/bd.png" width="800" />
 <br>
 
 ---
@@ -110,7 +110,7 @@ controle-financeiro-delphi
 
 ## 🧭 Funcionalidades Principais
 
-<img src="./Screenshots/0-tela-principal.png" width="700" />
+<img src="./Screenshots/0-tela-principal.png" width="800" />
 <br>
 
 ### 🔐 Usuários
@@ -136,7 +136,7 @@ controle-financeiro-delphi
   - Subcategoria
   - Descrição
 
-<img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="700" />
+<img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="800" />
 <br>
 ---
 
@@ -157,7 +157,7 @@ controle-financeiro-delphi
 - Efetivação automática no extrato bancário
 - Consolidação por categoria e subcategoria
 
-<img src="./Screenshots/18-efetiva-compromisso.png" width="700" />
+<img src="./Screenshots/18-efetiva-compromisso.png" width="800" />
 <br>
 ---
 
@@ -170,31 +170,36 @@ controle-financeiro-delphi
   - receitas × despesas × poupança
 - Histórico e relatórios de investimentos
 
-<img src="./Screenshots/23-cons-desp-grafico.png" width="700" />
+<img src="./Screenshots/23-cons-desp-grafico.png" width="800" />
 <br>
 
-<img src="./Screenshots/24-cons-desp-periodo.png" width="700" />
+<img src="./Screenshots/24-cons-desp-periodo.png" width="800" />
 <br>
 ---
 
 ### 🧾 Relatórios (Fortes Report)
 
-- Extrato bancário (com ou sem classificações)
-- Relatório sintético de despesas por período
-- Relatório consolidado de orçamento
 - Relatórios de investimentos
 - Exportação em **PDF**
 
-<img src="./Screenshots/22-rel-extrato.png" width="700" />
+- Extrato bancário (com ou sem classificações)
+
+<img src="./Screenshots/22-rel-extrato.png" width="800" />
 <br>
 
-<img src="./Screenshots/25-rel-desp-periodo.png" width="700" />
+- Relatório detalhado de despesas por período
+
+<img src="./Screenshots/25-rel-desp-periodo.png" width="800" />
 <br>
 
-<img src="./Screenshots/20-rel-orcto-analitico.png" width="700" />
+- Relatório detalhado de orçamento do perído filtrado
+
+<img src="./Screenshots/20-rel-orcto-analitico.png" width="800" />
 <br>
 
-<img src="./Screenshots/19-rel-orcto-sintetico.png" width="700" />
+- Relatório sintético de orçanmento do período filtrado
+
+<img src="./Screenshots/19-rel-orcto-sintetico.png" width="800" />
 <br>
 ---
 Esses prints foram incluídos para ilustrar o funcionamento do sistema sem expor dados reais.
