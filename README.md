@@ -15,6 +15,7 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 ## 📌 Visão Geral
 
 - Aplicação **multiusuário** (cada usuário possui dados financeiros independentes)
+- Cadastro de mais de uma conta bancária por usuário
 - Cadastro e classificação detalhada de movimentações financeiras
 - Importação de extratos bancários em arquivo `.txt`
 - Controle de orçamento e compromissos financeiros
