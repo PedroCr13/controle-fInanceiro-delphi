@@ -161,7 +161,9 @@ controle-financeiro-delphi
 
 - Exemplo lançamento recorrente:
 
-<img src="./Screenshots/27-programacao-recorrente-compromissos.png" width="800" />
+<p align="center">
+<img src="./Screenshots/27-programacao-recorrente-compromissos.png" width="400" />
+</p>
 <br>
 ---
 
