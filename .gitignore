@@ -1,0 +1,24 @@
+# Delphi / RAD Studio
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.map
+*.dof
+*.cfg
+*.dsk
+*.ddp
+*.local
+*.identcache
+*.stat
+*.~*
+__history/
+
+# Pastas de build
+Win32/
+Win64/
+Debug/
+Release/
+
+# Configurações sensíveis
+
