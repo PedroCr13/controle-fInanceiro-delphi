@@ -60,7 +60,7 @@ Essa abordagem foi adotada para:
 
 ## 📂 Organização do Projeto
 
-
+```text
 controle-financeiro-delphi
 │
 ├── Bibliotecas        # Classes e entidades do sistema
@@ -76,10 +76,11 @@ controle-financeiro-delphi
 ├── frmPrincipal.pas/.dfm # Tela principal
 ├── Config.ini            # Configuração (sem dados sensíveis)
 ├── SIE4.dpr               # Projeto Delphi
-
+```text
 
 > Algumas bibliotecas, scripts de banco e rotinas específicas foram removidos por questões de segurança e privacidade.
-> Todas as imagens utilizam dados fictícios para fins de demonstração.
+
+> Todas as imagens utilizam dados, valores, nomes de usuários fictícios para fins de demonstração.
 ---
 
 ## 🧭 Funcionalidades Principais
