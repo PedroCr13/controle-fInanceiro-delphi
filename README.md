@@ -86,7 +86,7 @@ controle-financeiro-delphi
 ## 🧭 Funcionalidades Principais
 
 <img src="./Screenshots/0-tela-principal.png" width="400" />
-<br><br>
+<br>
 
 ### 🔐 Usuários
 - Cadastro de usuários
@@ -96,7 +96,6 @@ controle-financeiro-delphi
 
 <img src="./Screenshots/1-cadastro-usuario.png" width="400" />
 <br><br>
-
 ---
 
 ### 💼 Movimentação Financeira
@@ -111,7 +110,6 @@ controle-financeiro-delphi
 
 <img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="400" />
 <br><br>
-
 ---
 
 ### 🗂️ Categorias
@@ -133,7 +131,6 @@ controle-financeiro-delphi
 
 <img src="./Screenshots/18-efetiva-compromisso.png" width="400" />
 <br><br>
-
 ---
 
 ### 📈 Consultas e Dashboards
@@ -150,7 +147,6 @@ controle-financeiro-delphi
 
 <img src="./Screenshots/24-cons-desp-periodo.png" width="400" />
 <br><br>
-
 ---
 
 ### 🧾 Relatórios (Fortes Report)
@@ -169,7 +165,6 @@ controle-financeiro-delphi
 
 <img src="./Screenshots/20-rel-orcto-analitico.png" width="400" />
 <br><br>
-
 ---
 Esses prints foram incluídos para ilustrar o funcionamento do sistema sem expor dados reais.
 
@@ -191,7 +186,6 @@ Esses elementos são demonstrados por meio da:
 - telas
 - relatórios
 - descrição funcional
-
 ---
 
 ## 🚀 Objetivo do Projeto
@@ -204,14 +198,12 @@ Esses elementos são demonstrados por meio da:
   - uso de banco de dados
   - relatórios e análises financeiras
 - Servir como **portfólio técnico**
-
 ---
 
 ## 👤 Autor
 
 **Pedro Cristovão Lopes Fogaça**  
 Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.
-
 ---
 
 ## 📄 Licença
