@@ -21,7 +21,7 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 - Controle de orçamento e compromissos financeiros
 - Relatórios e gráficos analíticos e sintéticos
 - Persistência de dados em banco **Firebird**
-- Relatórios gerados com **Fortes Report**
+- Relatórios analicos e sintéticos gerados por fitros de período
 
 ---
 
@@ -29,8 +29,8 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 
 - **Delphi (VCL Desktop)**
 - **Banco de Dados Firebird**
-- Componente para construção de relatórios **Fortes Report** (único componente de terceiros)
-- Componentes **nativos do Delphi**
+- Componente para construção de relatórios **Fortes Report**
+- Demais telas com Componentes **nativos do Delphi**
 - Arquitetura desktop tradicional amplamente utilizada em sistemas corporativos
 ---
 
@@ -64,7 +64,6 @@ Parte importante das regras de negócio foi implementada diretamente no banco de
 
 - **Stored Procedures**
 - **Views**
-- Consultas consolidadas para relatórios
 
 Essas estruturas são utilizadas principalmente para:
 - consolidação de dados financeiros
@@ -74,9 +73,7 @@ Essas estruturas são utilizadas principalmente para:
 
 Essa abordagem foi adotada para:
 - centralizar regras críticas
-- melhorar performance
 - garantir consistência dos dados
-- refletir práticas comuns em sistemas corporativos desktop
 
 <img src="./Screenshots/bd-1.png" width="800" />
 <br>
@@ -88,24 +85,23 @@ Essa abordagem foi adotada para:
 ```text
 controle-financeiro-delphi
 │
-├── Bibliotecas        # Classes e entidades do sistema
-├── Cadastros          # Telas de cadastro
-├── Consultas          # Telas de consulta e regras associadas
-├── Dialogos           # Diálogos (login, filtros, impressão, etc.)
-├── Importacao         # Importação de extratos bancários (.txt)
-├── Modelo             # Formulários base (herança visual)
-├── Relatorios         # Relatórios com Fortes Report
-├── Icones             # Recursos visuais
+├── Bibliotecas            # Classes e entidades do sistema
+├── Cadastros              # Telas de cadastro
+├── Consultas              # Telas de consulta e regras associadas
+├── Dialogos               # Diálogos (login, filtros, impressão, etc.)
+├── Importacao             # Importação de extratos bancários (.txt)
+├── Modelo                 # Formulários base (herança visual)
+├── Relatorios             # Relatórios com Fortes Report
+├── Icones                 # Recursos visuais
 │
 ├── dmConexao.pas/.dfm     # DataModule de conexão
 ├── frmPrincipal.pas/.dfm  # Tela principal
-├── Config.ini             # Configuração (sem dados sensíveis)
+├── Config.ini             # Configuração path/porta do banco (sem dados sensíveis)
 ├── SIE4.dpr               # Projeto Delphi
 ```
 
 > Algumas bibliotecas, scripts de banco e rotinas específicas foram removidos por questões de segurança e privacidade.
-
-> Todas as imagens utilizam dados, valores, nomes de usuários fictícios para fins de demonstração.
+> Todas as imagens utilizam dados, valores, nomes de usuários **fictícios** para fins de demonstração.
 
 ---
 
@@ -156,7 +152,7 @@ controle-financeiro-delphi
 ### 📊 Orçamento Financeiro
 - Cadastro de compromissos financeiros futuros
 - Controle de **Previsto × Realizado**
-- Repetição de lançamentos (mensal, por período)
+- Programação de repetição de lançamentos (mensal, por período de preferência)
 - Efetivação automática no extrato bancário
 - Consolidação por categoria e subcategoria
 
@@ -195,7 +191,7 @@ controle-financeiro-delphi
 <img src="./Screenshots/25-rel-desp-periodo.png" width="800" />
 <br>
 
-- Relatório detalhado de orçamento do perído filtrado
+- Relatório detalhado de orçamento do período filtrado
 
 <img src="./Screenshots/20-rel-orcto-analitico.png" width="800" />
 <br>
@@ -216,7 +212,7 @@ Por isso, **não foram disponibilizados publicamente**:
 
 - scripts completos de banco de dados
 - procedures e views sensíveis
-- módulos específicos de negócio (ex.: investimentos avançados)
+- módulos específicos de negócio
 - bibliotecas de criptografia
 
 Esses elementos são demonstrados por meio da:
@@ -241,12 +237,12 @@ Esses elementos são demonstrados por meio da:
 
 ## 👤 Autor
 
-Pedro Lopes 
-Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.
+Pedro Cristovão
+Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.  
+
 ---
 
 ## 📄 Licença
 
 Este projeto é disponibilizado exclusivamente para fins educacionais e de portfólio.  
-Uso comercial não autorizado.
 
