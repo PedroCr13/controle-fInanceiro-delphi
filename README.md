@@ -28,7 +28,7 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 
 - **Delphi (VCL Desktop)**
 - **Banco de Dados Firebird**
-- **Fortes Report** (único componente de terceiros)
+- Componente para construção de relatórios **Fortes Report** (único componente de terceiros)
 - Componentes **nativos do Delphi**
 - Arquitetura desktop tradicional amplamente utilizada em sistemas corporativos
 ---
