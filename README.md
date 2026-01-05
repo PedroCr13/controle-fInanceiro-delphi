@@ -84,7 +84,7 @@ controle-financeiro-delphi
 
 ## 🧭 Funcionalidades Principais
 
-<img src="./screenshots/0-tela-principal.png" width="400" />
+<img src="./Screenshots/0-tela-principal.png" width="400" />
 <br><br>
 
 ### 🔐 Usuários
@@ -93,7 +93,7 @@ controle-financeiro-delphi
 - Redefinição de senha
 - Isolamento completo de dados por usuário
 
-<img src="./screenshots/1-cadastro-usuario.png" width="400" />
+<img src="./Screenshots/1-cadastro-usuario.png" width="400" />
 <br><br>
 
 ---
@@ -108,7 +108,7 @@ controle-financeiro-delphi
   - Subcategoria
   - Descrição
 
-<img src="./screenshots/16-consulta-extrato-banc-princ.png" width="400" />
+<img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="400" />
 <br><br>
 
 ---
@@ -130,7 +130,7 @@ controle-financeiro-delphi
 - Efetivação automática no extrato bancário
 - Consolidação por categoria e subcategoria
 
-<img src="./screenshots/18-efetiva-compromisso.png" width="400" />
+<img src="./Screenshots/18-efetiva-compromisso.png" width="400" />
 <br><br>
 
 ---
@@ -144,10 +144,10 @@ controle-financeiro-delphi
   - receitas × despesas × poupança
 - Histórico e relatórios de investimentos
 
-<img src="./screenshots/23-cons-desp-grafico.png" width="400" />
+<img src="./Screenshots/23-cons-desp-grafico.png" width="400" />
 <br><br>
 
-<img src="./screenshots/24-cons-desp-periodo.png" width="400" />
+<img src="./Screenshots/24-cons-desp-periodo.png" width="400" />
 <br><br>
 
 ---
@@ -160,13 +160,13 @@ controle-financeiro-delphi
 - Relatórios de investimentos
 - Exportação em **PDF**
 
-<img src="./screenshots/22-rel-extrato.png" width="400" />
+<img src="./Screenshots/22-rel-extrato.png" width="400" />
 <br><br>
 
-<img src="./screenshots/25-rel-desp-periodo.png" width="400" />
+<img src="./Screenshots/25-rel-desp-periodo.png" width="400" />
 <br><br>
 
-<img src="./screenshots/20-rel-orcto-analitico.png" width="400" />
+<img src="./Screenshots/20-rel-orcto-analitico.png" width="400" />
 <br><br>
 
 ---
