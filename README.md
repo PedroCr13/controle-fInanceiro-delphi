@@ -123,7 +123,7 @@ controle-financeiro-delphi
 <img src="./Screenshots/2-cad-usuario.png" width="800" />
 <br>
 
-<img src="./Screenshots/2-login-desktop.png" width="800" />
+<img src="./Screenshots/2-login-efeito-desfoque-volta.png" width="800" />
 <br>
 ---
 
