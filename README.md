@@ -19,9 +19,9 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 - Cadastro e classificação detalhada de movimentações financeiras
 - Importação de extratos bancários em arquivo `.txt`
 - Controle de orçamento e compromissos financeiros
-- Relatórios e gráficos analíticos e sintéticos
+- Analise por meio de gráficos
 - Persistência de dados em banco **Firebird**
-- Relatórios analicos e sintéticos gerados por fitros de período
+- Relatórios analiticos e sintéticos gerados por fitros por período
 
 ---
 
@@ -30,7 +30,7 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 - **Delphi (VCL Desktop)**
 - **Banco de Dados Firebird**
 - Componente para construção de relatórios **Fortes Report**
-- Demais telas com Componentes **nativos do Delphi**
+- Demais telas com componentes **nativos do Delphi**
 - Arquitetura desktop tradicional amplamente utilizada em sistemas corporativos
 ---
 
@@ -237,7 +237,7 @@ Esses elementos são demonstrados por meio da:
 
 ## 👤 Autor
 
-Pedro Cristovão
+Pedro Cristovão -
 Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.  
 
 ---
