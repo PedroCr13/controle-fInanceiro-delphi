@@ -136,7 +136,7 @@ controle-financeiro-delphi
   - Subcategoria
   - Descrição
 
-<img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="400" />
+<img src="./Screenshots/16-consulta-extrato-banc-princ.png" width="500" />
 <br>
 ---
 
@@ -157,7 +157,7 @@ controle-financeiro-delphi
 - Efetivação automática no extrato bancário
 - Consolidação por categoria e subcategoria
 
-<img src="./Screenshots/18-efetiva-compromisso.png" width="400" />
+<img src="./Screenshots/18-efetiva-compromisso.png" width="500" />
 <br>
 ---
 
@@ -170,10 +170,10 @@ controle-financeiro-delphi
   - receitas × despesas × poupança
 - Histórico e relatórios de investimentos
 
-<img src="./Screenshots/23-cons-desp-grafico.png" width="400" />
+<img src="./Screenshots/23-cons-desp-grafico.png" width="500" />
 <br>
 
-<img src="./Screenshots/24-cons-desp-periodo.png" width="400" />
+<img src="./Screenshots/24-cons-desp-periodo.png" width="500" />
 <br>
 ---
 
@@ -185,16 +185,16 @@ controle-financeiro-delphi
 - Relatórios de investimentos
 - Exportação em **PDF**
 
-<img src="./Screenshots/22-rel-extrato.png" width="400" />
+<img src="./Screenshots/22-rel-extrato.png" width="500" />
 <br>
 
-<img src="./Screenshots/25-rel-desp-periodo.png" width="400" />
+<img src="./Screenshots/25-rel-desp-periodo.png" width="500" />
 <br>
 
-<img src="./Screenshots/20-rel-orcto-analitico.png" width="400" />
+<img src="./Screenshots/20-rel-orcto-analitico.png" width="500" />
 <br>
 
-<img src="./Screenshots/19-rel-orcto-sintetico.png" width="400" />
+<img src="./Screenshots/19-rel-orcto-sintetico.png" width="500" />
 <br>
 ---
 Esses prints foram incluídos para ilustrar o funcionamento do sistema sem expor dados reais.
