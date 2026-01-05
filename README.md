@@ -223,7 +223,7 @@ Esses elementos são demonstrados por meio da:
 
 ## 👤 Autor
 
-**Pedro Cristovão Lopes Fogaça**  
+Pedro Cristovão 
 Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.
 ---
 
