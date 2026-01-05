@@ -110,7 +110,7 @@ controle-financeiro-delphi
 
 ## 🧭 Funcionalidades Principais
 
-<img src="./Screenshots/0-tela-principal.png" width="800" />
+<img src="./Screenshots/0-principal.png" width="800" />
 <br>
 
 ### 🔐 Usuários
