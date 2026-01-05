@@ -60,7 +60,7 @@ Essa abordagem foi adotada para:
 
 ## 📂 Organização do Projeto
 
-```text
+
 controle-financeiro-delphi
 │
 ├── Bibliotecas        # Classes e entidades do sistema
