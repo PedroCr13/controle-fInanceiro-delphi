@@ -159,7 +159,9 @@ controle-financeiro-delphi
 <img src="./Screenshots/18-efetiva-compromisso.png" width="800" />
 <br>
 
-<img src="./Screenshots/27-programacao-recorrente-compromissos.png" width="400" />
+- Exemplo lançamento recorrente:
+
+<img src="./Screenshots/27-programacao-recorrente-compromissos.png" width="800" />
 <br>
 ---
 
