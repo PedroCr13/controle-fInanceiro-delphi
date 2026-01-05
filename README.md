@@ -119,7 +119,10 @@ controle-financeiro-delphi
 - Redefinição de senha
 - Isolamento completo de dados por usuário
 
-<img src="./Screenshots/1-cadastro-usuario.png" width="400" />
+<img src="./Screenshots/1-cadastro-usuario.png" width="300" />
+<br>
+
+<img src="./Screenshots/2-login.png" width="300" />
 <br>
 ---
 
@@ -189,6 +192,9 @@ controle-financeiro-delphi
 <br>
 
 <img src="./Screenshots/20-rel-orcto-analitico.png" width="400" />
+<br>
+
+<img src="./Screenshots/19-rel-orcto-sintetico.png" width="400" />
 <br>
 ---
 Esses prints foram incluídos para ilustrar o funcionamento do sistema sem expor dados reais.
