@@ -104,6 +104,16 @@ controle-financeiro-delphi
 > Todas as imagens utilizam dados, valores, nomes de usuários fictícios para fins de demonstração.
 ---
 
+## 🗄️ Modelo de Dados (Firebird)
+
+O sistema utiliza banco de dados Firebird, com modelagem relacional e parte das regras de negócio implementadas diretamente no banco,
+por meio de **procedures** e **views**, utilizadas principalmente na geração de relatórios e consolidações financeiras.
+
+<img src="./Screenshots/bd.png.png" width="400" />
+<br>
+
+---
+
 ## 🧭 Funcionalidades Principais
 
 <img src="./Screenshots/0-tela-principal.png" width="400" />
@@ -223,7 +233,7 @@ Esses elementos são demonstrados por meio da:
 
 ## 👤 Autor
 
-Pedro Cristovão 
+Pedro Lopes 
 Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.
 ---
 
