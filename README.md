@@ -77,7 +77,7 @@ Essa abordagem foi adotada para:
 - garantir consistência dos dados
 - refletir práticas comuns em sistemas corporativos desktop
 
-<img src="./Screenshots/bd.png" width="800" />
+<img src="./Screenshots/bd-1.png" width="800" />
 <br>
 
 ---
