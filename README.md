@@ -119,7 +119,7 @@ controle-financeiro-delphi
 - Redefinição de senha
 - Isolamento completo de dados por usuário
 
-<img src="./Screenshots/1-cadastro-usuario.png" width="300" />
+<img src="./Screenshots/2-cad-usuario.png" width="800" />
 <br>
 
 <img src="./Screenshots/2-login.png" width="300" />
