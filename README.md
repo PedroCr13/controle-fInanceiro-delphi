@@ -98,8 +98,8 @@ controle-financeiro-delphi
 ├── Icones             # Recursos visuais
 │
 ├── dmConexao.pas/.dfm     # DataModule de conexão
-├── frmPrincipal.pas/.dfm # Tela principal
-├── Config.ini            # Configuração (sem dados sensíveis)
+├── frmPrincipal.pas/.dfm  # Tela principal
+├── Config.ini             # Configuração (sem dados sensíveis)
 ├── SIE4.dpr               # Projeto Delphi
 ```
 
@@ -149,7 +149,7 @@ controle-financeiro-delphi
   - Reinvestimentos
 - Utilizadas como base para relatórios e gráficos
 
-<img src="./Screenshots/11-cons-sub-rec-desp.png" width="800" />
+<img src="./Screenshots/11-cons-sub-rec-desp-tela.png" width="800" />
 <br>
 ---
 
