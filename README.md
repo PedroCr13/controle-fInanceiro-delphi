@@ -1,3 +1,9 @@
+![Delphi](https://img.shields.io/badge/Delphi-Pascal-red?logo=delphi)
+![Object Pascal](https://img.shields.io/badge/Object%20Pascal-✓-blue)
+![Firebird](https://img.shields.io/badge/Database-Firebird-orange)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+![Desktop](https://img.shields.io/badge/Plataforma-Desktop-informational)
+
 # 💰 Controle Financeiro Pessoal – Delphi Desktop
 
 Sistema desktop de **controle financeiro pessoal multiusuário**, desenvolvido em **Delphi**, voltado para organização de receitas, despesas, investimentos, orçamento e análise financeira por meio de relatórios e gráficos.
@@ -25,8 +31,23 @@ Este projeto foi construído como uma solução prática para uso real no dia a 
 - **Fortes Report** (único componente de terceiros)
 - Componentes **nativos do Delphi**
 - Arquitetura desktop tradicional amplamente utilizada em sistemas corporativos
-
 ---
+
+### 🧬 Arquitetura de Formulários e Herança Visual
+
+Para garantir padronização visual, reutilização de código e facilidade de manutenção, o sistema foi desenvolvido utilizando **formulários base** (modelos) para os principais tipos de telas:
+
+- Cadastros
+- Consultas
+- Diálogos
+- Relatórios
+
+A partir desses formulários padronizados, as demais telas do sistema foram construídas por **herança**, permitindo:
+
+- consistência de layout e comportamento
+- centralização de regras comuns
+- redução de código duplicado
+- manutenção mais simples e segura
 
 ## 🗄️ Banco de Dados e Regras de Negócio
 
