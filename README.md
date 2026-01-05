@@ -76,7 +76,7 @@ controle-financeiro-delphi
 ├── frmPrincipal.pas/.dfm # Tela principal
 ├── Config.ini            # Configuração (sem dados sensíveis)
 ├── SIE4.dpr               # Projeto Delphi
-```text
+```
 
 > Algumas bibliotecas, scripts de banco e rotinas específicas foram removidos por questões de segurança e privacidade.
 
