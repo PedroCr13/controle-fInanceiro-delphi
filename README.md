@@ -77,6 +77,9 @@ Essa abordagem foi adotada para:
 - garantir consistência dos dados
 - refletir práticas comuns em sistemas corporativos desktop
 
+<img src="./Screenshots/bd.png" width="400" />
+<br>
+
 ---
 
 ## 📂 Organização do Projeto
@@ -102,15 +105,6 @@ controle-financeiro-delphi
 > Algumas bibliotecas, scripts de banco e rotinas específicas foram removidos por questões de segurança e privacidade.
 
 > Todas as imagens utilizam dados, valores, nomes de usuários fictícios para fins de demonstração.
----
-
-## 🗄️ Modelo de Dados (Firebird)
-
-O sistema utiliza banco de dados Firebird, com modelagem relacional e parte das regras de negócio implementadas diretamente no banco,
-por meio de **procedures** e **views**, utilizadas principalmente na geração de relatórios e consolidações financeiras.
-
-<img src="./Screenshots/bd.png.png" width="400" />
-<br>
 
 ---
 
