@@ -246,8 +246,8 @@ Esses elementos são demonstrados por meio da:
 
 ## 👤 Autor
 
-Pedro Cristovão -
-Projeto desenvolvido para uso pessoal e demonstração de conhecimento em desenvolvimento desktop com Delphi e banco de dados Firebird.  
+Este projeto foi desenvolvido por Pedro Cristovão.  
+Para dúvidas, sugestões ou oportunidades de colaboração, entre em contato via [LinkedIn](https://www.linkedin.com/in/pedrolopes1208)
 
 ---
 
