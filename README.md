@@ -10,6 +10,8 @@ Sistema desktop de **controle financeiro pessoal multiusuário**, desenvolvido e
 
 Este projeto foi construído ao longo do tempo de forma incremental como uma solução prática para uso real no dia a dia, permitindo controle detalhado das finanças pessoais, categorização de gastos, importação de extratos bancários e acompanhamento de orçamento previsto versus realizado.
 
+Embora o **código fonte completo não esteja disponível**, este repositório apresenta diversas **imagens reais do sistema em funcionamento**
+
 ---
 
 ## 📌 Visão Geral
