@@ -1,3 +1,4 @@
+[![GitHub stars](https://img.shields.io/github/stars/PedroCr13/controle-financeiro-delphi?style=social)](https://github.com/PedroCr13/controle-financeiro-delphi)
 ![Delphi](https://img.shields.io/badge/Delphi-Pascal-red?logo=delphi)
 ![Object Pascal](https://img.shields.io/badge/Object%20Pascal-✓-blue)
 ![Firebird](https://img.shields.io/badge/Database-Firebird-orange)
