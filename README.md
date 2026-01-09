@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/PedroCr13/controle-financeiro-delphi?style=social)](https://github.com/PedroCr13/controle-financeiro-delphi)
+
 ![Delphi](https://img.shields.io/badge/Delphi-Pascal-red?logo=delphi)
 ![Object Pascal](https://img.shields.io/badge/Object%20Pascal-✓-blue)
 ![Firebird](https://img.shields.io/badge/Database-Firebird-orange)
@@ -6,6 +6,7 @@
 ![Desktop](https://img.shields.io/badge/Plataforma-Desktop-informational)
 
 # 💰 Controle Financeiro Pessoal – Delphi Desktop
+[![GitHub stars](https://img.shields.io/github/stars/PedroCr13/controle-financeiro-delphi?style=social)](https://github.com/PedroCr13/controle-financeiro-delphi)
 
 Sistema desktop de **controle financeiro pessoal multiusuário**, desenvolvido em **Delphi**, voltado para organização de receitas, despesas, investimentos, orçamento e análise financeira por meio de relatórios e gráficos.
 
